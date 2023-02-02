@@ -5578,6 +5578,26 @@ QBShared.Vehicles = {
         ['hash'] = `gtr50`,
         ['shop'] = 'import',
     },
+    ['nismo20'] = {
+        ['name'] = 'Nissan Nismo R35',
+        ['brand'] = '',
+        ['model'] = 'nismo20',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `nismo20`,
+        ['shop'] = 'import',
+    },
+    ['huayrar'] = {
+        ['name'] = 'Pagani Huayra',
+        ['brand'] = '',
+        ['model'] = 'huayrar',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `huayrar`,
+        ['shop'] = 'import',
+    },
 }
 
 for _, v in pairs(QBShared.Vehicles) do
