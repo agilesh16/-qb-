@@ -5598,6 +5598,16 @@ QBShared.Vehicles = {
         ['hash'] = `huayrar`,
         ['shop'] = 'import',
     },
+    ['mobm23'] = {
+        ['name'] = 'BMW X7',
+        ['brand'] = '',
+        ['model'] = 'mobm23',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `mobm23`,
+        ['shop'] = 'import',
+    },
 }
 
 for _, v in pairs(QBShared.Vehicles) do
