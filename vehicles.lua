@@ -5598,6 +5598,36 @@ QBShared.Vehicles = {
         ['hash'] = `huayrar`,
         ['shop'] = 'import',
     },
+    ['jeepg'] = {
+        ['name'] = 'Jeep 2020',
+        ['brand'] = '',
+        ['model'] = 'jeepg',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `jeepg`,
+        ['shop'] = 'import',
+    },
+    ['ocnlamtmc'] = {
+        ['name'] = 'lam',
+        ['brand'] = '',
+        ['model'] = 'ocnlamtmc',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `ocnlamtmc`,
+        ['shop'] = 'import',
+    },
+    ['m6prior'] = {
+        ['name'] = 'BMW M6',
+        ['brand'] = '',
+        ['model'] = 'm6prior',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `m6prior`,
+        ['shop'] = 'import',
+    },
 }
 
 for _, v in pairs(QBShared.Vehicles) do
