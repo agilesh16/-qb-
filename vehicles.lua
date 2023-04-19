@@ -5908,6 +5908,16 @@ QBShared.Vehicles = {
         ['hash'] = `rs7`,
         ['shop'] = 'import',
     },
+    ['pgt322'] = {
+        ['name'] = 'Porsche 911 Gt3',
+        ['brand'] = '',
+        ['model'] = 'pgt322',
+        ['price'] = 10000,
+        ['category'] = 'import',
+        ["categoryLabel"] = 'Import',
+        ['hash'] = `pgt322`,
+        ['shop'] = 'import',
+    },
 }
 
 
