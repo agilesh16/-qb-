@@ -493,5 +493,9 @@ QBShared.Items = {
         ["shouldClose"] = false,
         ["combinable"] = nil,
         ["description"] = "a boltcutter to open containers by police"
-    }
+    },
+
+    -- Scratch Card
+
+  	['scratch_ticket'] 			 = {['name'] = 'scratch_ticket', 				['label'] = 'Scratch Ticket', 				['weight'] = 25, 		['type'] = 'item', 		['image'] = 'scratch_ticket.png', 		['unique'] = false, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Odds Are Meant to be Beaten'},
 }
